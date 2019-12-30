@@ -9,7 +9,6 @@ using namespace std;
 
 void replicar (int dados[5][5])
 {
-    int teste
 	int k,l,i,j,cont=0;
 	 int aux;
 	for( i=0;i<5;i++)
